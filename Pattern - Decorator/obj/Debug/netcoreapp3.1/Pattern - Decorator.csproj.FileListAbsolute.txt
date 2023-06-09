@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\bin\Debug\netcoreapp3.1\Pattern - Decorator.exe
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\bin\Debug\netcoreapp3.1\Pattern - Decorator.deps.json
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\bin\Debug\netcoreapp3.1\Pattern - Decorator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\bin\Debug\netcoreapp3.1\Pattern - Decorator.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\bin\Debug\netcoreapp3.1\Pattern - Decorator.dll
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\bin\Debug\netcoreapp3.1\Pattern - Decorator.pdb
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\obj\Debug\netcoreapp3.1\Pattern - Decorator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\obj\Debug\netcoreapp3.1\Pattern - Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\obj\Debug\netcoreapp3.1\Pattern - Decorator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\obj\Debug\netcoreapp3.1\Pattern - Decorator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\obj\Debug\netcoreapp3.1\Pattern - Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\obj\Debug\netcoreapp3.1\Pattern - Decorator.dll
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\obj\Debug\netcoreapp3.1\Pattern - Decorator.pdb
+C:\Users\Administrator\source\repos\Pattern - Decorator\Pattern - Decorator\obj\Debug\netcoreapp3.1\Pattern - Decorator.genruntimeconfig.cache
